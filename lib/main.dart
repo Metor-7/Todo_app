@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   Column(
                     children: [
                       Tiletext(
-                        text:"Title",
+                        text:"Title of todo",
                       textcolor:Colors.white,
                       textSize:28,
                       textFontweight:FontWeight.w900,
