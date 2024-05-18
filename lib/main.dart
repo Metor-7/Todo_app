@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       textFontweight:FontWeight.w900,
                       ),
                       Tiletext(
-                        text:"Description",
+                        text:"Description of todo",
                       textcolor:Colors.white,
                       textSize:16,
                       textFontweight:FontWeight.w500,
